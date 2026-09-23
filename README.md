@@ -14,7 +14,7 @@ I'm also building experience through IEEE and Comet Robotics at UT Dallas.
 
 ## Technical Skills
 
-**Programming:** Python, MATLAB, JavaScript, TypeScript, HTML  
+**Programming:** Python(Ongoing), MATLAB, JavaScript(Ongoing), TypeScript(Ongoing), HTML(Ongoing)  
 **Hardware / Electronics:** Digital Logic, Breadboarding, Logic ICs, Soldering  
 **Tools:** Multisim, Tinkercad, Git, GitHub
 
